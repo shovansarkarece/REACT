@@ -34,3 +34,7 @@
 
 ![image](https://github.com/user-attachments/assets/1fa1b07e-66a7-4080-b19a-6cd1cad19ed5)
 
+![App.css](https://github.com/user-attachments/assets/4f16dc18-e54b-4e89-9092-6e4caf6d9a09)
+
+![image](https://github.com/user-attachments/assets/feeea6bb-7245-47e5-952b-e5696355c159)
+
