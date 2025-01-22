@@ -29,3 +29,7 @@
 
 ![image](https://github.com/user-attachments/assets/5b0cbf4a-73ae-4764-86e8-37429179e02b)
 
+![vite.config.js](https://github.com/user-attachments/assets/14601787-4713-4898-9fb4-c3fcfba293d8)
+
+
+![image](https://github.com/user-attachments/assets/2284df45-dfaf-4fb8-a6b1-8d786544c0ba)
