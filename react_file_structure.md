@@ -42,8 +42,11 @@
 
 
 ![Ap.css](https://github.com/user-attachments/assets/524bdc99-0b96-483f-8d92-a017559ff60b)
-![inex.css](https://github.com/user-attachments/assets/181962d7-081e-4d3c-9297-aad7007cdeea)
-
+![index.css](https://github.com/user-attachments/assets/181962d7-081e-4d3c-9297-aad7007cdeea)
 
 ![image](https://github.com/user-attachments/assets/cfc9f21e-1104-4158-8140-fdf9cd9f778d)
+
+![main.jsx](https://github.com/user-attachments/assets/51379bdf-fcc8-43f9-bb25-6a8ed1b704c4)
+
+![image](https://github.com/user-attachments/assets/47f8c51b-b590-4f70-a23a-fde6bbbeae13)
 
