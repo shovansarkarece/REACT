@@ -21,5 +21,5 @@
 
 ![package.json](https://github.com/user-attachments/assets/eef80cad-dd36-4c5c-b3f3-cb59dad740f8)
 
+![image](https://github.com/user-attachments/assets/1b7c5421-1f2a-4838-860d-190c7bd2d13a)
 
-![image](https://github.com/user-attachments/assets/f674ba3d-fe81-47db-9825-925f15d191da)
