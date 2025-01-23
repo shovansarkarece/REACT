@@ -19,4 +19,6 @@ const element =<h1>Hello JavaScript</h1>
 ```
 const element = React.createElement('h1',null,'Hello JavaScript')
 ``` 
+# Jsx Graphical Explanation
+![image](https://github.com/user-attachments/assets/fafed4f0-27be-4925-b421-aaa1ddc90f20)
 
