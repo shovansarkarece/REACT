@@ -9,5 +9,14 @@
 const name = "Hello"
 const element = <h1>Hello {name}</h1>
 ```
-# Embedding Expression
+# Babel Compilation
+1.JSX is not directly understood by browser,so it need to be transpiled into regular JavaScript using Babel, which converts JSX into `React.createElement()` calls.
+### JSX: 
+```
+const element =<h1>Hello JavaScript</h1>
+```
+## Transpiled Babel into
+```
+const element = React.createElement('h1',null,'Hello JavaScript')
+``` 
 
