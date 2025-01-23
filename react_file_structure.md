@@ -48,5 +48,6 @@
 
 ![main.jsx](https://github.com/user-attachments/assets/51379bdf-fcc8-43f9-bb25-6a8ed1b704c4)
 
-![image](https://github.com/user-attachments/assets/47f8c51b-b590-4f70-a23a-fde6bbbeae13)
+![image](https://github.com/user-attachments/assets/bd6cb8ba-c0a5-4a6b-aab5-c2361aee6aab)
+
 
