@@ -1,2 +1,29 @@
 # Component
-- **In React, a component is the fundamental building block for building user interfaces. Components allow you to split the UI into reusable, independent pieces, and manage each part in isolation. There are two main types of components: Functional Components and Class Components.**
+- **In React, a component is the fundamental building block for building user interfaces. Components allow you to split the UI into reusable, independent pieces, and manage each part in isolation.**
+- **There are two main types of components:**
+## Functional Component
+```
+import React from 'reat'
+const Greeting = () =>{
+return (
+<>
+<h1> Hello JavaScript </h1>
+</>
+)
+}
+export default Greeting;
+```
+## Class Components.
+```
+import React {Component} from 'react';
+class Greeting extends component{
+render(){
+return (
+<>
+<h1> Hello JavaScript </h1>
+</>
+)
+}
+}
+export default Greeting;
+```
